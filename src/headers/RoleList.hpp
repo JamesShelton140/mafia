@@ -1,6 +1,6 @@
 #ifndef ROLELIST_HPP
 #define ROLELIST_HPP
 
-#include "Vanilla.hpp"
+#include "roles/Vanilla.hpp"
 
 #endif
