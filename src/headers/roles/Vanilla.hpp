@@ -3,4 +3,8 @@
 
 #include "../Role.hpp"
 
+class Vanilla {
+
+};
+
 #endif
